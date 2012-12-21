@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDemoApp", "MvcDemoApp\MvcDemoApp.csproj", "{EAAF778A-A3B2-49C8-B34C-F00BE0B197DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTests", "..\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\SeleniumTests.csproj", "{33574C84-72C6-46DD-BA83-171A46C39ED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{EAAF778A-A3B2-49C8-B34C-F00BE0B197DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAAF778A-A3B2-49C8-B34C-F00BE0B197DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAAF778A-A3B2-49C8-B34C-F00BE0B197DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33574C84-72C6-46DD-BA83-171A46C39ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33574C84-72C6-46DD-BA83-171A46C39ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33574C84-72C6-46DD-BA83-171A46C39ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33574C84-72C6-46DD-BA83-171A46C39ED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

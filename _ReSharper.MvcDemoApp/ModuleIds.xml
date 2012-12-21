@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="EAAF778A-A3B2-49C8-B34C-F00BE0B197DA" ModuleId="MvcDemoApp" />
+  <Module PersistentId="33574C84-72C6-46DD-BA83-171A46C39ED3" ModuleId="SeleniumTests" />
+</Modules>

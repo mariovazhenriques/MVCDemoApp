@@ -1,0 +1,7 @@
+C:\Users\mário.vaz.henriques\Documents\MVCDemoApp\MvcDemoApp\bin\MvcDemoApp.dll
+C:\Users\mário.vaz.henriques\Documents\MVCDemoApp\MvcDemoApp\bin\MvcDemoApp.pdb
+C:\Users\mário.vaz.henriques\Documents\MVCDemoApp\MvcDemoApp\bin\EntityFramework.dll
+C:\Users\mário.vaz.henriques\Documents\MVCDemoApp\MvcDemoApp\bin\EntityFramework.xml
+C:\Users\mário.vaz.henriques\Documents\MVCDemoApp\MvcDemoApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mário.vaz.henriques\Documents\MVCDemoApp\MvcDemoApp\obj\Debug\MvcDemoApp.dll
+C:\Users\mário.vaz.henriques\Documents\MVCDemoApp\MvcDemoApp\obj\Debug\MvcDemoApp.pdb
