@@ -1,0 +1,9 @@
+C:\Users\mário.vaz.henriques\Documents\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mário.vaz.henriques\Documents\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\bin\Debug\SeleniumTests.dll
+C:\Users\mário.vaz.henriques\Documents\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\bin\Debug\SeleniumTests.pdb
+C:\Users\mário.vaz.henriques\Documents\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\bin\Debug\Ionic.Zip.dll
+C:\Users\mário.vaz.henriques\Documents\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\bin\Debug\WebDriver.dll
+C:\Users\mário.vaz.henriques\Documents\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\obj\Debug\SeleniumTests.dll
+C:\Users\mário.vaz.henriques\Documents\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\obj\Debug\SeleniumTests.pdb
+C:\Users\mário.vaz.henriques\Documents\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\bin\Debug\nunit.framework.dll
+C:\Users\mário.vaz.henriques\Documents\Visual Studio 2010\Projects\ContinuousDelivery\SeleniumTests\bin\Debug\nunit.framework.xml
